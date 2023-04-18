@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe.config
+C:\Users\Yusuf\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe
+C:\Users\Yusuf\source\repos\PassGen\PassGen\bin\Debug\PassGen.pdb
+C:\Users\Yusuf\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe
+C:\Users\Yusuf\source\repos\PassGen\PassGen\obj\Debug\PassGen.pdb
